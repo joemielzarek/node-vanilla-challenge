@@ -1,0 +1,11 @@
+{
+  "name": "vanilla_2_node",
+  "version": "1.0.0",
+  "description": "node challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Mielzarek",
+  "license": "ISC"
+}
